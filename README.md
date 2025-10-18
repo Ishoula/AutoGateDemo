@@ -1,0 +1,1 @@
+This project uses a joystick to control a servo motor through the Arduino’s map() function. The joystick’s analog input (0–1023) is mapped to a servo angle (0–180°), allowing smooth movement based on joystick position. Power for the joystick is provided via pins A2 (VCC) and A3 (GND).
